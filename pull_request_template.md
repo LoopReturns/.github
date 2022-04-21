@@ -22,6 +22,7 @@
 
 - [ ] Security impact of change has been considered
 - [ ] Code follows company security practices and guidelines
+- [ ] Network Access is limited to ports with a defined business need
 
 ### Code review 
 
